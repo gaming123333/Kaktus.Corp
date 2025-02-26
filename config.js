@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "mongodb+srv://prokozak76:prokozak76@kaktus.bflyu.mongodb.net/?retryWrites=true&w=majority",
+  mongodbUri : "mongodb+srv://prokozak76:prokozak76@kaktus.bflyu.mongodb.net/?retryWrites=true&w=majority&appName=Kaktus",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
